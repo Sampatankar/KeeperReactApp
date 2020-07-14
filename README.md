@@ -8,3 +8,10 @@ This requires the use of map() and filter() functions, as well as state changes 
 
 This app comes from completing the challenges posed by the 9-hour React bonus course as part of the 2020 Full-Stack Web Development Bootcamp by Angela Yu's AppBrewery. A course hosted on Udemy.com
 
+N.B. To run this app: 
+1. Ensure you have Node.js and NPM installed (go through their docs)
+2. In your terminal, install the required packages via NPM listed in the package.json file: npm i 
+3. npm audit fix (if required)
+4. npm start
+
+This will run the app in your browser
